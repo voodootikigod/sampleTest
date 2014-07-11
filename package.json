@@ -1,0 +1,30 @@
+{
+  "name": "TestService",
+  "version": "0.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "convict": "^0.4.2",
+    "fluxxor": "^1.2.2",
+    "hapi": "^5.1.0",
+    "hoek": "^2.0.0",
+    "joi": "^4.5.0",
+    "lodash": "git://github.com/lodash/lodash",
+    "react-bootstrap": "^0.10.0",
+    "rest": "git://github.com/cujojs/rest#browserify",
+    "yar": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.0",
+    "chai": "^1.9.0",
+    "chai-as-promised": "^4.1.1",
+    "gulp": "^3.8.4",
+    "gulp-jshint": "^1.5.0",
+    "nodemon": "1.0.17",
+    "watchify": "^0.7.1",
+    "reactify": "^0.11.0",
+    "react": "^0.10.0",
+    "gulp-less": "^1.2.3",
+    "glob": "^3.2.9",
+    "exuent": "0.0.2",
+  }
+}
